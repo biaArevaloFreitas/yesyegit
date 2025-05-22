@@ -11,6 +11,6 @@ package com.mycompany.testegithubterminal;
 public class TesteGitHubTerminal {
 
     public static void main(String[] args) {
-        System.out.println("alalalacacacacac");
+        System.out.println("ooooooooooooo");
     }
 }
